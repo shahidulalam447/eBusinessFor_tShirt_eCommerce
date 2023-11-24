@@ -1,0 +1,37 @@
+logo size for website:
+1. 280px*120px (Recommended)
+2. 350px*150px
+
+For logo file format should be .png and for other image file format should be .jpg from canva.
+
+Apps For Dropshipping:
+1. DSers-AliExpress Dropshipping ( 1,2,6  Free For AliExpress)(Multiple Product Catagory)
+2. Dropshipman-Ali Dropshipping 
+3. AutoDS All-in-One Dropshipping (3,4  Paid)
+4. Spocket-US & EU Dropshipping (First delivery 2/3 days)
+5. Trendsi-Fashion Dropshipping (Single Category)
+6. CJdropshipping
+7. Judge.me Product Reviews (For free reviews of customers)
+8. Track123 Order Tracking Upsell (For free product Tracking)
+9. Tidio Live Chat & Al Chatbots (9,10 For popUp Live Chat/Message)
+10. Willdesk-Live Chat, Helpdesk.
+11. PageFly Landing Page Builder (11,12 ..For Working with custom pages, sections..)
+12. GemPages Landing Page Builder
+
+Extension for Chrom: 
+1. Shopify Theme Detector (Shopify theme understand) / write click on web > view page source > ctrl + f  > shopify.theme / boomerang  (write) 
+2. Shopify spy scraper & parser 2.0.3 (For excel or csv file download from shopify web store)
+3. Image Downloader  (For download image from web)
+4. GoFullPage - Full Page Screen Capture  (For web)
+5.  Save Image As PNG  (For save png format of any Images)
+
+
+For some live sample shopify Store:
+1. westforkoutdoorstore.com
+2. cravecandlesco.com
+3. vulsini.com
+4. faunusplant.ro/pages/promo
+5. mobilemansions.net
+
+For product Description:
+1. https://tools.picsart.com/text/ai-writer/product-description-generator/
